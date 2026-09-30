@@ -5,3 +5,18 @@ Título: Sistema de Controle de Manutenção Industrial
 Objetivo: Desenvolver um sistema web para controle e acompanhamento das manutenções realizadas em máquinas industriais, permitindo o cadastro de equipamentos, técnicos responsáveis e ordens de serviço.
 
 Justificativa: O controle das atividades de manutenção é fundamental para garantir a disponibilidade dos equipamentos, reduzir paradas não planejadas e melhorar a gestão das informações relacionadas às máquinas industriais.
+
+Funcionalidades do Sistema
+ 
+- Cadastro de máquinas;
+- Cadastro de técnicos;
+- Cadastro de ordens de serviço;
+- Consulta de histórico de manutenção;
+- Atualização de status das manutenções.
+ 
+Tecnologias Utilizadas
+ 
+- Front-end: HTML, CSS e JavaScript;
+- Back-end: Python Flask;
+- Banco de Dados: SQLite;
+- Plataforma: Web.
