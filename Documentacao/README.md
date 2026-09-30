@@ -1,1 +1,1 @@
-Documentação do projeto.
+Documentação do Projeto Integrador de Engenharia de Software II.
